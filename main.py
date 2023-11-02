@@ -5,7 +5,7 @@ def print_hi(name):
 print_hi("Nitin")
 
 def my_fun(a, b):
-    return a+b
+    return a - b
 
 if __name__ == "__main__":
     print("Atul")
