@@ -13,4 +13,4 @@ if __name__ == "__main__":
 
 print(password)
 
-x = 3
+x = 30
